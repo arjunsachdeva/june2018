@@ -1,2 +1,3 @@
 # june2018
-Created this repository for week 1
+Undertaking some Git training.
+Created this repository for that purpose.
